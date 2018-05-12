@@ -1,10 +1,16 @@
 _repo: The-Mentor-Scotland-The-Land-of-Song-and-Scenery-Vol-1-Num-10-Serial-No-10-April-21-1913-A-Tr__49451
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49451-h/images/cover.jpg
 creator:
   author:
     agent_name: Elmendorf, Dwight L.
     gutenberg_agent_id: '45347'
     url: http://www.gutenberg.org/2009/agents/45347
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49451#The-Mentor-Scotland-The-Land-of-Song-and-Scenery-Vol-1-Num-10-Serial-No-10-April-21-1913-A-Tr_
 gutenberg_issued: '2015-07-16'
 gutenberg_type: Text
 identifiers:
