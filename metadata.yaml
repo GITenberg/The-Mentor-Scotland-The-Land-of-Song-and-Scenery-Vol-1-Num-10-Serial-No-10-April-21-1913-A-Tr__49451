@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Mentor: Scotland, The Land of Song and Scenery, Vol. 1, Num. 10, Serial
   No. 10, April 21, 1913
 
